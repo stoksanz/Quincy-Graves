@@ -1,0 +1,6 @@
+{
+  "name": "Guardian Family",
+  "description": "Aplikasi Guardian Family untuk menghubungkan anggota keluarga dalam satu sistem, dengan fitur lokasi, status, dan komunikasi dasar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
